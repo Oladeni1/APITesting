@@ -1,0 +1,4 @@
+# How to watch api
+> npm run watch
+# How to run API tests
+> npm run: APITest
